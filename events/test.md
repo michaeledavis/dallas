@@ -1,5 +1,5 @@
 ##Attendance
 - [X] Michael
-- [ ] Sam
+- [x] Sam
 - [ ] Steve
 - [ ] Tester
